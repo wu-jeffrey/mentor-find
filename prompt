@@ -1,0 +1,1 @@
+simple static webpage that allows mentors and mentees to be matched together. Please use React and use flat design style in basic CSS files. Make sure to install all dependencies in the package.json file. I want the flow to have a directory of industries, and within each industry, there is a directory of mentors. Hardcode these for now. 
